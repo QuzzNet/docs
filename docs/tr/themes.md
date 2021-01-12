@@ -18,7 +18,7 @@ CSS, tarayıcılara bir web sayfasının öğelerinin nasıl görüntüleneceği
 
 Bir CSS eğitimi bu belgesinin kapsamı dışındadır, ancak CSS'nin temellerini öğrenmek için birçok harika çevrimiçi kaynak vardır.
 
-:::İPUCU
+:::tip İPUCU
 Flarum aslında LESS kullanır, bu da değişkenlere, koşullara ve işlevlere izin vererek CSS yazmayı kolaylaştırır.
 :::
 
